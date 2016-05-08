@@ -12,7 +12,7 @@ I wanted to monitor the pins of the AAR-04 AREXX ARDUINO ROBOT which I lent me o
 
 Every X seconds the values should be refreshed. For this I intentional refresh the hole table. Not nice but should work was what I thought. Unfortunately, the buffer was not big enough and not the hole table was printed. The result was that I only print the table structure and update only the values. To realize this, I wrote a little library (for more see [Requirements](#requirements)). Due to this lirary I am able to set the courser to the right place and override the old values.
 
-** picture **
+![](Arduino-PinOverview.png)
 
 
 ## Requirements

@@ -1,5 +1,5 @@
 # Arduino Pin Overview
-Little Skatch which outputs the current values of all pins.
+Little Sketch which outputs the current values of all pins.
 
 **Table of Contents**
 - [Intension](#intension)

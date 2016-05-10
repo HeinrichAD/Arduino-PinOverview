@@ -19,7 +19,7 @@ Every X seconds the values should be refreshed. For this I intentional refresh t
 For this project you will need the following library:
 - [Arduino serial extention](https://github.com/HeinrichAD/Arduino-SerialExtended)
 
-Furthermore you will not be able to use the Arduino IDE serial monitor. I recommend [PuTTY] for Windows user.
+Furthermore you will not be able to use the Arduino IDE serial monitor. I recommend [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) for Windows user.
 
 
 ## Troubleshooting
@@ -30,8 +30,4 @@ For library install problems try to look [here](https://github.com/HeinrichAD/Ar
 
 ## LICENSE
 GNU General Public License v3.0<br />
-For more information see LICENSE file.
-
-
-
-[PuTTY]:(http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+For more information see [LICENSE](/LICENSE) file.
